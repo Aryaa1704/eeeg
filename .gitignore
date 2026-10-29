@@ -1,0 +1,18 @@
+# Raw EEG recordings and evaluation labels are local research data.
+data/
+
+# Runtime logs, caches, and superseded smoke/preliminary outputs.
+work/
+.pytest_cache/
+__pycache__/
+*.py[cod]
+results-smoke/
+results/
+results_8_30/
+results_paper_strict/
+results_paper_temporal/
+
+# Local environments and editor files.
+.venv/
+.vscode/
+.idea/

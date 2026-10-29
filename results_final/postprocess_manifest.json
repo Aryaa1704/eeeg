@@ -1,0 +1,13 @@
+{
+  "source_results": [
+    "results_paper_temporal_retry",
+    "results_8_30_temporal"
+  ],
+  "figures": [
+    "accuracy_vs_window_start.png",
+    "heatmap_05-30_Hz.png",
+    "heatmap_8-30_Hz.png",
+    "per_class_f1_comparison.png",
+    "subject_wise_accuracy_comparison.png"
+  ]
+}

@@ -1,0 +1,3 @@
+band,comparison,n_subjects,mean_difference_pp,median_difference_pp,wilcoxon_statistic,p_value
+0.5-30 Hz,visual_cue_inclusive minus motor_imagery_only,9,-1.1753979260671503,-1.0869565217391297,9.0,0.12890625
+8-30 Hz,visual_cue_inclusive minus motor_imagery_only,9,-5.349530730977927,-3.6231884057971007,4.0,0.0546875
